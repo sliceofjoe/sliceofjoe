@@ -26,6 +26,7 @@ Each Campground has:
 * Add a navbar to all templates
 * Style the new campground form
 
+##v2
 #Add Mongoose
 * Install and configure mongoose
 * Setup campground model
@@ -37,6 +38,7 @@ Each Campground has:
 * Show db.collection.drop()
 * Add a show route/template
 
+##v3
 #Refactor Mongoose Code
 * Create a models directory
 * Use module.exports
@@ -50,11 +52,13 @@ Each Campground has:
 * Fix errors
 * Display comments on campground show page
 
+##v4
 #Comment New/Create
 * Discuss nested routes
 * Add the comment new and create routes
 * Add the comment new form
 
+##v5
 #Style Show Page
 * Add sidebar to show page
 * Display comments nicely
